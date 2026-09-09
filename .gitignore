@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.claude/
+data/*.json
+.env*.local
+
+.agents/
+.impeccable/
